@@ -1,1 +1,11 @@
 /* This is where my CSS styles are going to go! */
+body{
+  background-image: url(https://data.whicdn.com/images/129250782/original.jpg);
+}
+.navbar-brand{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 35px;
+}
+h1{
+  font-family: 'Comfortaa', cursive;
+}
