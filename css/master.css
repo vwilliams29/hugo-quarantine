@@ -9,6 +9,25 @@ body{
 h1{
   font-family: 'Comfortaa', cursive;
 }
+
 .jumbotron{
   background-color:#fae1f1;
+}
+.pink{
+  background-color:#fae1f1;
+  height: 250px;
+}
+.did{
+  height: 420px;
+  width: 20px;
+}
+.carousel{
+  float:right;
+  width: 500px;
+}
+.hobbies{
+  font-family: 'Kaushan Script', cursive;
+}
+p{
+  font-family: 'Comfortaa', cursive;
 }
