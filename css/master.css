@@ -23,11 +23,18 @@ h1{
 }
 .carousel{
   float:right;
-  width: 500px;
+  width: 400px;
 }
 .hobbies{
   font-family: 'Kaushan Script', cursive;
 }
-p{
+.lead{
   font-family: 'Comfortaa', cursive;
+}
+.orange{
+  background-color: #ffeed2;
+}
+p{
+  font-family: 'Amatic SC', cursive;
+  font-size:20px;
 }
